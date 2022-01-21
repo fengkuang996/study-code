@@ -1,0 +1,38 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BACKLOG	ks1/service1.c	18;"	d	file:
+BACKLOG	service.c	19;"	d	file:
+PORT	ks1/service1.c	15;"	d	file:
+PORT	service.c	16;"	d	file:
+SIZE	client.c	12;"	d	file:
+SIZE	ks1/client1.c	12;"	d	file:
+SIZE	ks1/service1.c	16;"	d	file:
+SIZE	service.c	17;"	d	file:
+SIZE_SHMADD	ks1/service1.c	17;"	d	file:
+SIZE_SHMADD	service.c	18;"	d	file:
+fd	ks1/service1.c	/^int fd[BACKLOG];$/;"	v
+fd	service.c	/^int fd[BACKLOG];$/;"	v
+get_sockfd	ks1/service1.c	/^int get_sockfd()$/;"	f
+get_sockfd	service.c	/^int get_sockfd()$/;"	f
+judge	ks1/service1.c	/^int judge(char* name,char * psd,char username[][30],char password[][30])$/;"	f	signature:(char* name,char * psd,char username[][30],char password[][30])
+judge	service.c	/^int judge(char* name,char * psd,char username[][30],char password[][30])$/;"	f	signature:(char* name,char * psd,char username[][30],char password[][30])
+judgefree	ks1/service1.c	/^int judgefree()$/;"	f
+judgefree	service.c	/^int judgefree()$/;"	f
+judgepassword	ks1/service1.c	/^int judgepassword(int n,char* psd,char password[][30])$/;"	f	signature:(int n,char* psd,char password[][30])
+judgepassword	service.c	/^int judgepassword(int n,char* psd,char password[][30])$/;"	f	signature:(int n,char* psd,char password[][30])
+judgeuser	ks1/service1.c	/^int judgeuser(char* name,char username[][30])$/;"	f	signature:(char* name,char username[][30])
+judgeuser	service.c	/^int judgeuser(char* name,char username[][30])$/;"	f	signature:(char* name,char username[][30])
+main	client.c	/^int main(int argc, char *argv[])$/;"	f	signature:(int argc, char *argv[])
+main	ks1/client1.c	/^int main(int argc, char *argv[])$/;"	f	signature:(int argc, char *argv[])
+main	ks1/service1.c	/^int main(int argc, char *argv[])$/;"	f	signature:(int argc, char *argv[])
+main	service.c	/^int main(int argc, char *argv[])$/;"	f	signature:(int argc, char *argv[])
+prt	ks1/service1.c	/^void prt(char username[][30],char password[][30])$/;"	f	signature:(char username[][30],char password[][30])
+prt	service.c	/^void prt(char username[][30],char password[][30])$/;"	f	signature:(char username[][30],char password[][30])
+shmid_create	ks1/service1.c	/^ int shmid_create()$/;"	f
+shmid_create	service.c	/^ int shmid_create()$/;"	f
+sockfd	ks1/service1.c	/^int sockfd;$/;"	v
+sockfd	service.c	/^int sockfd;$/;"	v

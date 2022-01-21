@@ -1,0 +1,334 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.2 184168 11584 ?        Ss   7月02   0:38 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    7月02   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   7月02   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   7月02   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   7月02   0:00 [kworker/0:0H-kblockd]
+root           9  0.0  0.0      0     0 ?        I<   7月02   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    7月02   0:00 [ksoftirqd/0]
+root          11  0.0  0.0      0     0 ?        I    7月02   0:28 [rcu_sched]
+root          12  0.0  0.0      0     0 ?        S    7月02   0:01 [migration/0]
+root          13  0.0  0.0      0     0 ?        S    7月02   0:00 [idle_inject/0]
+root          14  0.0  0.0      0     0 ?        S    7月02   0:00 [cpuhp/0]
+root          15  0.0  0.0      0     0 ?        S    7月02   0:00 [cpuhp/1]
+root          16  0.0  0.0      0     0 ?        S    7月02   0:00 [idle_inject/1]
+root          17  0.0  0.0      0     0 ?        S    7月02   0:01 [migration/1]
+root          18  0.0  0.0      0     0 ?        S    7月02   0:00 [ksoftirqd/1]
+root          20  0.0  0.0      0     0 ?        I<   7月02   0:00 [kworker/1:0H-kblockd]
+root          21  0.0  0.0      0     0 ?        S    7月02   0:00 [cpuhp/2]
+root          22  0.0  0.0      0     0 ?        S    7月02   0:00 [idle_inject/2]
+root          23  0.0  0.0      0     0 ?        S    7月02   0:01 [migration/2]
+root          24  0.0  0.0      0     0 ?        S    7月02   0:00 [ksoftirqd/2]
+root          26  0.0  0.0      0     0 ?        I<   7月02   0:00 [kworker/2:0H-kblockd]
+root          27  0.0  0.0      0     0 ?        S    7月02   0:00 [cpuhp/3]
+root          28  0.0  0.0      0     0 ?        S    7月02   0:00 [idle_inject/3]
+root          29  0.0  0.0      0     0 ?        S    7月02   0:01 [migration/3]
+root          30  0.0  0.0      0     0 ?        S    7月02   0:00 [ksoftirqd/3]
+root          32  0.0  0.0      0     0 ?        I<   7月02   0:00 [kworker/3:0H-kblockd]
+root          33  0.0  0.0      0     0 ?        S    7月02   0:00 [kdevtmpfs]
+root          34  0.0  0.0      0     0 ?        I<   7月02   0:00 [netns]
+root          35  0.0  0.0      0     0 ?        S    7月02   0:00 [rcu_tasks_kthre]
+root          36  0.0  0.0      0     0 ?        S    7月02   0:00 [kauditd]
+root          40  0.0  0.0      0     0 ?        S    7月02   0:00 [khungtaskd]
+root          41  0.0  0.0      0     0 ?        S    7月02   0:00 [oom_reaper]
+root          42  0.0  0.0      0     0 ?        I<   7月02   0:00 [writeback]
+root          43  0.0  0.0      0     0 ?        S    7月02   0:00 [kcompactd0]
+root          44  0.0  0.0      0     0 ?        SN   7月02   0:00 [ksmd]
+root          45  0.0  0.0      0     0 ?        SN   7月02   0:00 [khugepaged]
+root          93  0.0  0.0      0     0 ?        I<   7月02   0:00 [kintegrityd]
+root          94  0.0  0.0      0     0 ?        I<   7月02   0:00 [kblockd]
+root          95  0.0  0.0      0     0 ?        I<   7月02   0:00 [blkcg_punt_bio]
+root          96  0.0  0.0      0     0 ?        I<   7月02   0:00 [tpm_dev_wq]
+root          97  0.0  0.0      0     0 ?        I<   7月02   0:00 [ata_sff]
+root          98  0.0  0.0      0     0 ?        I<   7月02   0:00 [md]
+root          99  0.0  0.0      0     0 ?        I<   7月02   0:00 [edac-poller]
+root         100  0.0  0.0      0     0 ?        I<   7月02   0:00 [devfreq_wq]
+root         101  0.0  0.0      0     0 ?        S    7月02   0:00 [watchdogd]
+root         105  0.0  0.0      0     0 ?        S    7月02   0:09 [kswapd0]
+root         106  0.0  0.0      0     0 ?        S    7月02   0:00 [ecryptfs-kthrea]
+root         108  0.0  0.0      0     0 ?        I<   7月02   0:00 [kthrotld]
+root         109  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/24-pciehp]
+root         110  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/25-pciehp]
+root         111  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/26-pciehp]
+root         112  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/27-pciehp]
+root         113  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/28-pciehp]
+root         114  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/29-pciehp]
+root         115  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/30-pciehp]
+root         116  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/31-pciehp]
+root         117  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/32-pciehp]
+root         118  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/33-pciehp]
+root         119  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/34-pciehp]
+root         120  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/35-pciehp]
+root         121  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/36-pciehp]
+root         122  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/37-pciehp]
+root         123  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/38-pciehp]
+root         124  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/39-pciehp]
+root         125  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/40-pciehp]
+root         126  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/41-pciehp]
+root         127  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/42-pciehp]
+root         128  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/43-pciehp]
+root         129  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/44-pciehp]
+root         130  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/45-pciehp]
+root         131  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/46-pciehp]
+root         132  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/47-pciehp]
+root         133  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/48-pciehp]
+root         134  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/49-pciehp]
+root         135  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/50-pciehp]
+root         136  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/51-pciehp]
+root         137  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/52-pciehp]
+root         138  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/53-pciehp]
+root         139  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/54-pciehp]
+root         140  0.0  0.0      0     0 ?        S    7月02   0:00 [irq/55-pciehp]
+root         141  0.0  0.0      0     0 ?        I<   7月02   0:00 [acpi_thermal_pm]
+root         143  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_0]
+root         144  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_0]
+root         145  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_1]
+root         146  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_1]
+root         148  0.0  0.0      0     0 ?        I<   7月02   0:00 [vfio-irqfd-clea]
+root         149  0.0  0.0      0     0 ?        I<   7月02   0:00 [ipv6_addrconf]
+root         159  0.0  0.0      0     0 ?        I<   7月02   0:00 [kstrp]
+root         162  0.0  0.0      0     0 ?        I<   7月02   0:00 [kworker/u257:0-xprtiod]
+root         175  0.0  0.0      0     0 ?        I<   7月02   0:00 [charger_manager]
+root         223  0.0  0.0      0     0 ?        I<   7月02   0:00 [mpt_poll_0]
+root         224  0.0  0.0      0     0 ?        I<   7月02   0:00 [mpt/0]
+root         225  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_2]
+root         226  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_2]
+root         227  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_3]
+root         228  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_3]
+root         229  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_4]
+root         230  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_4]
+root         231  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_5]
+root         232  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_5]
+root         234  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_6]
+root         235  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_6]
+root         236  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_7]
+root         237  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_7]
+root         238  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_8]
+root         239  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_8]
+root         240  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_9]
+root         241  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_9]
+root         242  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_10]
+root         243  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_10]
+root         244  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_11]
+root         245  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_11]
+root         246  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_12]
+root         247  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_12]
+root         248  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_13]
+root         249  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_13]
+root         250  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_14]
+root         251  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_14]
+root         252  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_15]
+root         253  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_15]
+root         254  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_16]
+root         255  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_16]
+root         256  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_17]
+root         257  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_17]
+root         258  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_18]
+root         259  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_18]
+root         260  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_19]
+root         261  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_19]
+root         262  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_20]
+root         263  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_20]
+root         264  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_21]
+root         265  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_21]
+root         266  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_22]
+root         267  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_22]
+root         268  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_23]
+root         269  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_23]
+root         270  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_24]
+root         271  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_24]
+root         272  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_25]
+root         273  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_25]
+root         274  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_26]
+root         275  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_26]
+root         276  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_27]
+root         277  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_27]
+root         278  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_28]
+root         279  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_28]
+root         280  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_29]
+root         281  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_29]
+root         282  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_30]
+root         283  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_30]
+root         284  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_31]
+root         285  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_31]
+root         313  0.0  0.0      0     0 ?        S    7月02   0:00 [scsi_eh_32]
+root         314  0.0  0.0      0     0 ?        I<   7月02   0:00 [scsi_tmf_32]
+root         315  0.0  0.0      0     0 ?        I<   7月02   0:03 [kworker/1:1H-kblockd]
+root         345  0.0  0.0      0     0 ?        I<   7月02   0:05 [kworker/0:1H-kblockd]
+root         346  0.0  0.0      0     0 ?        S    7月02   0:06 [jbd2/sda1-8]
+root         347  0.0  0.0      0     0 ?        I<   7月02   0:00 [ext4-rsv-conver]
+root         356  0.0  0.0      0     0 ?        I<   7月02   0:02 [kworker/3:1H-kblockd]
+root         363  0.0  0.0      0     0 ?        I<   7月02   0:03 [kworker/2:1H-kblockd]
+root         395  0.0  1.0  80892 43820 ?        S<s  7月02   0:22 /lib/systemd/systemd-journald
+root         422  0.0  0.0      0     0 ?        I<   7月02   0:00 [rpciod]
+root         423  0.0  0.0      0     0 ?        I<   7月02   0:00 [xprtiod]
+root         429  0.0  0.0   5380   172 ?        Ss   7月02   0:00 /usr/sbin/blkmapd
+root         441  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop0]
+root         442  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop1]
+root         444  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop2]
+root         446  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop3]
+root         448  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop4]
+root         450  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop5]
+root         452  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop6]
+root         455  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop7]
+root         458  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop8]
+root         460  0.0  0.2  26728  9664 ?        Ss   7月02   0:12 /lib/systemd/systemd-udevd
+root         461  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop9]
+root         462  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop10]
+root         463  0.0  0.0      0     0 ?        S<   7月02   0:00 [loop11]
+root         481  0.0  0.0   3400   196 ?        Ss   7月02   0:00 /usr/sbin/rpc.idmapd
+root         580  0.0  0.0      0     0 ?        S    7月02   0:22 [irq/16-vmwgfx]
+root         581  0.0  0.0      0     0 ?        I<   7月02   0:00 [ttm_swap]
+root         657  0.0  0.0      0     0 ?        I<   7月02   0:00 [cryptd]
+_rpc         778  0.0  0.0   7104  3692 ?        Ss   7月02   0:00 /sbin/rpcbind -f -w
+systemd+     779  0.0  0.2  23888 11784 ?        Ss   7月02   0:44 /lib/systemd/systemd-resolved
+systemd+     780  0.0  0.1  90356  6112 ?        Ssl  7月02   1:06 /lib/systemd/systemd-timesyncd
+root         784  0.0  0.2 242096  8020 ?        Ssl  7月02   0:05 /usr/lib/accountsservice/accounts-daemon
+root         785  0.0  0.0   2540   780 ?        Ss   7月02   0:09 /usr/sbin/acpid
+avahi        789  0.0  0.0   8752  3180 ?        Ss   7月02   0:01 avahi-daemon: running [wz-virtual-machine.local]
+root         790  0.0  0.0  12712  3052 ?        Ss   7月02   0:02 /usr/sbin/cron -f
+message+     792  0.0  0.1  10220  6320 ?        Ss   7月02   0:08 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         793  0.0  0.5 339852 20300 ?        Ssl  7月02   0:11 /usr/sbin/NetworkManager --no-daemon
+root         802  0.0  0.0  81928  3672 ?        Ssl  7月02   0:11 /usr/sbin/irqbalance --foreground
+root         803  0.0  0.4  42688 19548 ?        Ss   7月02   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         805  0.0  0.2 244820 11516 ?        Ssl  7月02   0:04 /usr/lib/policykit-1/polkitd --no-debug
+syslog       807  0.0  0.1 224548  5120 ?        Ssl  7月02   0:01 /usr/sbin/rsyslogd -n -iNONE
+root         808  0.0  0.7 1150624 31716 ?       Ssl  7月02   0:26 /usr/lib/snapd/snapd
+root         809  0.0  0.1 238892  6392 ?        Ssl  7月02   0:00 /usr/libexec/switcheroo-control
+root         810  0.0  0.2  17052  8020 ?        Ss   7月02   0:04 /lib/systemd/systemd-logind
+root         811  0.0  0.3 393040 12832 ?        Ssl  7月02   0:00 /usr/lib/udisks2/udisksd
+root         813  0.0  0.1  13680  5024 ?        Ss   7月02   0:01 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+daemon       832  0.0  0.0   4016  2248 ?        Ss   7月02   0:00 /usr/sbin/atd -f
+avahi        841  0.0  0.0   8568   360 ?        S    7月02   0:00 avahi-daemon: chroot helper
+root         954  0.0  0.5 121420 21940 ?        Ssl  7月02   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         961  0.0  0.2 240008 10544 ?        Ssl  7月02   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         965  0.0  0.4  31928 18312 ?        Ss   7月02   0:00 /usr/sbin/rpc.mountd --manage-gids
+root         968  0.0  0.0      0     0 ?        I<   7月02   0:00 [kworker/u257:1-xprtiod]
+root         969  0.0  0.0      0     0 ?        S    7月02   0:00 [lockd]
+root         978  0.0  0.1  12284  5668 ?        Ss   7月02   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root        1016  0.0  0.2 242944  8596 ?        Ssl  7月02   0:00 /usr/sbin/gdm3
+root        1053  0.0  0.0      0     0 ?        S    7月02   0:00 [nfsd]
+root        1054  0.0  0.0      0     0 ?        S    7月02   0:00 [nfsd]
+root        1055  0.0  0.0      0     0 ?        S    7月02   0:00 [nfsd]
+root        1056  0.0  0.0      0     0 ?        S    7月02   0:00 [nfsd]
+root        1057  0.0  0.0      0     0 ?        S    7月02   0:00 [nfsd]
+root        1058  0.0  0.0      0     0 ?        S    7月02   0:00 [nfsd]
+root        1059  0.0  0.0      0     0 ?        S    7月02   0:00 [nfsd]
+root        1060  0.0  0.0      0     0 ?        S    7月02   0:00 [nfsd]
+root        1134  0.0  0.0 180228   620 ?        Ssl  7月02   0:00 /usr/bin/vmhgfs-fuse -o subtype=vmhgfs-fuse,allow_other /mnt/hgfs
+root        1167  0.0  0.0 168744   676 ?        Ssl  7月02   0:00 /usr/sbin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+root        1192  0.1  0.3 164668 13836 ?        Sl   7月02   3:39 /usr/sbin/vmtoolsd
+root        1283  0.0  0.2  40980 11016 ?        S    7月02   0:00 /usr/lib/vmware-vgauth/VGAuthService -s
+whoopsie    1303  0.0  0.2 175476 11948 ?        Ssl  7月02   0:00 /usr/bin/whoopsie -f
+kernoops    1315  0.0  0.0  11256   452 ?        Ss   7月02   0:05 /usr/sbin/kerneloops --test
+kernoops    1317  0.0  0.0  11256   448 ?        Ss   7月02   0:05 /usr/sbin/kerneloops
+root        1344  0.0  0.0   3140   156 ?        Ss   7月02   0:00 /usr/sbin/in.tftpd --listen --user tftp --address 0.0.0.0:69 -l -c -s /home/wz/tftpboot
+rtkit       1353  0.0  0.0 153156  3040 ?        SNsl 7月02   0:04 /usr/libexec/rtkit-daemon
+root        1357  0.0  0.0   8032  2156 ?        Ss   7月02   0:00 /usr/sbin/xinetd -pidfile /run/xinetd.pid -stayalive -inetd_compat -inetd_ipv6
+root        1452  0.0  0.2 255328  9468 ?        Ssl  7月02   0:01 /usr/lib/upower/upowerd
+colord      1719  0.0  0.3 249760 14008 ?        Ssl  7月02   0:00 /usr/libexec/colord
+root        1919  0.0  0.3 466508 12088 ?        Sl   7月02   0:03 gdm-session-worker [pam/gdm-password]
+wz          1933  0.0  0.3  21896 13144 ?        Ss   7月02   0:12 /lib/systemd/systemd --user
+wz          1935  0.0  0.0 169140  3480 ?        S    7月02   0:00 (sd-pam)
+wz          1942  0.0  0.3 1367156 12724 ?       Ssl  7月02   0:10 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+wz          1944  0.0  0.5 514880 23540 ?        SNsl 7月02   0:03 /usr/libexec/tracker-miner-fs
+wz          1947  0.0  0.2  12964  9548 ?        Ss   7月02   0:12 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+wz          1963  0.0  0.1 243044  7504 ?        Ssl  7月02   0:00 /usr/libexec/gvfsd
+wz          1968  0.0  0.1 378336  6468 ?        Sl   7月02   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+wz          1970  0.0  0.2 391368  9224 ?        Ssl  7月02   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+wz          1980  0.0  0.1 241320  6964 ?        Ssl  7月02   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+wz          1984  0.0  0.1 238916  6048 ?        Ssl  7月02   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+wz          1988  0.0  0.2 319968  8700 ?        Ssl  7月02   0:08 /usr/libexec/gvfs-afc-volume-monitor
+wz          1994  0.0  0.1 243660  7060 ?        Sl   7月02   0:01 /usr/bin/gnome-keyring-daemon --daemonize --login
+wz          1995  0.0  0.1 239120  6028 ?        Ssl  7月02   0:00 /usr/libexec/gvfs-goa-volume-monitor
+wz          2000  0.0  0.8 548424 33928 ?        Sl   7月02   0:00 /usr/libexec/goa-daemon
+wz          2009  0.0  0.2 318116  8548 ?        Sl   7月02   0:02 /usr/libexec/goa-identity-service
+wz          2018  0.0  0.1 167240  6772 tty2     Ssl+ 7月02   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+wz          2020  0.2  1.5 286632 60912 tty2     Sl+  7月02   8:37 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+wz          2039  0.0  0.3 191452 13572 tty2     Sl+  7月02   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+wz          2099  0.0  0.0   6032   456 ?        Ss   7月02   0:01 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+wz          2109  0.0  0.1 305424  7024 ?        Ssl  7月02   0:00 /usr/libexec/at-spi-bus-launcher
+wz          2114  0.0  0.1   7464  4044 ?        S    7月02   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+wz          2120  0.0  0.1  93296  4224 ?        Ssl  7月02   0:00 /usr/libexec/gnome-session-ctl --monitor
+wz          2127  0.0  0.4 488056 16172 ?        Ssl  7月02   0:01 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+wz          2142  0.4  7.6 4365404 306744 ?      Ssl  7月02  13:59 /usr/bin/gnome-shell
+wz          2163  0.1  0.4 394328 18160 ?        Sl   7月02   3:26 ibus-daemon --panel disable --xim
+wz          2167  0.0  0.1 239888  7508 ?        Sl   7月02   0:00 /usr/libexec/ibus-dconf
+wz          2168  0.0  0.8 279404 35496 ?        Sl   7月02   0:22 /usr/libexec/ibus-extension-gtk3
+wz          2172  0.0  0.7 201584 28688 ?        Sl   7月02   0:02 /usr/libexec/ibus-x11 --kill-daemon
+wz          2175  0.0  0.1 239820  7648 ?        Sl   7月02   0:00 /usr/libexec/ibus-portal
+wz          2184  0.0  0.1 162828  7728 ?        Sl   7月02   0:02 /usr/libexec/at-spi2-registryd --use-gnome-session
+wz          2190  0.0  0.1 238940  4504 ?        Ssl  7月02   0:00 /usr/libexec/xdg-permission-store
+wz          2194  0.0  0.4 581456 19044 ?        Sl   7月02   0:01 /usr/libexec/gnome-shell-calendar-server
+wz          2203  0.0  0.6 1073904 25560 ?       Ssl  7月02   0:02 /usr/libexec/evolution-source-registry
+wz          2210  0.0  0.1 156460  5944 ?        Sl   7月02   0:00 /usr/libexec/dconf-service
+wz          2231  0.0  0.7 1514224 30112 ?       Ssl  7月02   0:02 /usr/libexec/evolution-calendar-factory
+wz          2237  0.0  0.6 2737040 26600 ?       Sl   7月02   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+wz          2257  0.0  0.7 890144 31560 ?        Ssl  7月02   0:01 /usr/libexec/evolution-addressbook-factory
+wz          2258  0.0  0.1 317340  7980 ?        Sl   7月02   0:01 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+wz          2268  0.0  0.1 313072  6792 ?        Ssl  7月02   0:00 /usr/libexec/gsd-a11y-settings
+wz          2269  0.0  0.7 497992 29376 ?        Ssl  7月02   0:09 /usr/libexec/gsd-color
+wz          2273  0.0  0.4 377032 16168 ?        Ssl  7月02   0:00 /usr/libexec/gsd-datetime
+wz          2279  0.0  0.1 315264  7972 ?        Ssl  7月02   0:03 /usr/libexec/gsd-housekeeping
+wz          2280  0.0  0.7 349872 28924 ?        Ssl  7月02   0:02 /usr/libexec/gsd-keyboard
+wz          2282  0.0  0.7 905028 31792 ?        Ssl  7月02   0:03 /usr/libexec/gsd-media-keys
+wz          2289  0.0  0.7 424052 29600 ?        Ssl  7月02   0:04 /usr/libexec/gsd-power
+wz          2292  0.0  0.2 251708 10828 ?        Ssl  7月02   0:00 /usr/libexec/gsd-print-notifications
+wz          2296  0.0  0.1 460364  6104 ?        Ssl  7月02   0:00 /usr/libexec/gsd-rfkill
+wz          2299  0.0  0.1 238772  5964 ?        Ssl  7月02   0:00 /usr/libexec/gsd-screensaver-proxy
+wz          2301  0.0  0.2 468192 10348 ?        Ssl  7月02   0:00 /usr/libexec/gsd-sharing
+wz          2304  0.0  0.2 318576  8788 ?        Ssl  7月02   0:00 /usr/libexec/gsd-smartcard
+wz          2305  0.0  0.2 322768  9276 ?        Ssl  7月02   0:00 /usr/libexec/gsd-sound
+wz          2313  0.0  1.4 641648 58680 ?        Sl   7月02   0:03 /usr/libexec/evolution-data-server/evolution-alarm-notify
+wz          2314  0.0  0.1 388384  7444 ?        Ssl  7月02   0:00 /usr/libexec/gsd-usb-protection
+wz          2315  0.0  0.7 349136 28464 ?        Ssl  7月02   0:02 /usr/libexec/gsd-wacom
+wz          2317  0.0  0.1 317396  7960 ?        Ssl  7月02   0:00 /usr/libexec/gsd-wwan
+wz          2319  0.0  0.7 350696 30428 ?        Ssl  7月02   0:04 /usr/libexec/gsd-xsettings
+wz          2320  0.0  0.1 231792  5584 ?        Sl   7月02   0:00 /usr/libexec/gsd-disk-utility-notify
+wz          2336  0.1  0.7 221132 28384 ?        Sl   7月02   3:47 /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+wz          2392  0.0  0.3 345452 14728 ?        Sl   7月02   0:00 /usr/libexec/gsd-printer
+wz          2448  0.0  0.5 269108 21684 ?        Sl   7月02   0:54 /usr/lib/ibus/ibus-engine-libpinyin --ibus
+wz          2680  0.0  0.1 165628  6512 ?        Ssl  7月02   0:00 /usr/libexec/gvfsd-metadata
+wz          2683  0.0  2.1 856864 84716 ?        Sl   7月02   0:16 /usr/bin/gnome-software --gapplication-service
+wz          2685  0.0  1.1 508480 47528 ?        Sl   7月02   0:07 update-notifier
+wz          3212  0.0  0.1 166176  7168 ?        Sl   7月02   0:10 /usr/libexec/ibus-engine-simple
+wz          4785  0.0  0.2 735296  8932 ?        Sl   7月02   0:00 /usr/libexec/gvfsd-network --spawner :1.3 /org/gtk/gvfs/exec_spaw/1
+wz          4798  0.0  0.2 318228  8008 ?        Sl   7月02   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.3 /org/gtk/gvfs/exec_spaw/3
+root       13921  0.0  0.2 169952  8664 ?        Sl   7月03   0:00 gdm-session-worker [pam/gdm-password]
+root       16007  0.0  0.2 169952  9000 ?        Sl   7月03   0:00 gdm-session-worker [pam/gdm-password]
+root       27188  0.0  0.2 169948  8720 ?        Sl   08:36   0:00 gdm-session-worker [pam/gdm-password]
+root       40858  0.0  0.0      0     0 ?        I    12:11   0:02 [kworker/1:2-events]
+root       41185  0.0  0.0      0     0 ?        I    14:54   0:01 [kworker/2:0-events]
+root       41215  0.0  0.0      0     0 ?        I    15:23   0:00 [kworker/1:0-cgroup_destroy]
+root       41389  0.0  0.0      0     0 ?        I    15:23   0:04 [kworker/3:0-rcu_gp]
+root       41434  0.1  0.6 381564 24452 ?        Ssl  15:23   0:08 /usr/libexec/fwupd/fwupd
+root       41479  0.0  0.2  31476  9032 ?        Ss   15:24   0:00 /usr/sbin/cupsd -l
+root       41481  0.0  0.3 178616 12776 ?        Ssl  15:24   0:01 /usr/sbin/cups-browsed
+wz         41542  0.3  1.9 1158384 78264 ?       Ssl  15:24   0:22 /usr/libexec/gnome-terminal-server
+wz         41560  0.0  0.3  23668 12108 pts/0    Ss   15:24   0:06 zsh
+wz         41567  0.0  0.1  16828  4172 pts/0    S    15:24   0:00 zsh
+wz         41595  0.0  0.1  19416  5940 pts/0    S    15:24   0:00 zsh
+wz         41596  0.0  0.0   3404     4 pts/0    Sl   15:24   0:00 /home/wz/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.3.1 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 8
+wz         41598  0.0  0.1  19400  4612 pts/0    S    15:24   0:00 zsh
+root       41924  0.0  0.0      0     0 ?        I    15:28   0:00 [kworker/0:0-events]
+wz         41947  0.0  0.3  23664 12084 pts/1    Ss+  15:29   0:05 zsh
+wz         41963  0.0  0.1  16824  4196 pts/1    S    15:29   0:00 zsh
+wz         41993  0.0  0.1  19416  5952 pts/1    S    15:29   0:00 zsh
+wz         41994  0.0  0.1  19400  4612 pts/1    S    15:29   0:00 zsh
+wz         41996  0.0  0.0   3404     4 pts/1    Sl   15:29   0:00 /home/wz/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.3.1 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 8
+root       42173  0.0  0.0      0     0 ?        I    16:08   0:00 [kworker/u256:1-events_unbound]
+root       42192  0.0  0.0      0     0 ?        I    16:31   0:00 [kworker/2:2-events]
+root       42267  0.0  0.0      0     0 ?        I    16:31   0:00 [kworker/3:3-rcu_par_gp]
+root       42401  0.0  0.0      0     0 ?        I    16:38   0:00 [kworker/0:2-mpt_poll_0]
+root       42634  0.0  0.0      0     0 ?        I    17:11   0:00 [kworker/u256:2-events_power_efficient]
+root       42642  0.0  0.0      0     0 ?        I    17:17   0:00 [kworker/0:1-events]
+root       42684  0.0  0.0      0     0 ?        I    17:17   0:00 [kworker/u256:0-events_unbound]
+root       42690  0.0  0.0      0     0 ?        I    17:17   0:00 [kworker/3:1-events]
+root       42693  0.0  0.0      0     0 ?        I    17:17   0:00 [kworker/1:1-events]
+root       42705  0.0  0.0      0     0 ?        I    17:17   0:00 [kworker/0:3]
+root       42706  0.0  0.0      0     0 ?        I    17:17   0:00 [kworker/1:3-events]
+wz         42708  0.3  0.5 364348 22756 ?        Ssl  17:19   0:00 /usr/libexec/tracker-store
+wz         42725  0.0  0.0   2356   580 pts/0    S+   17:19   0:00 ./fork5
+wz         42726  0.0  0.0      0     0 pts/0    Z+   17:19   0:00 [ls] <defunct>
+wz         42727  1.0  0.0  14800  3540 pts/0    R+   17:19   0:00 ps aux
+wz         42728  0.0  0.0   2356    76 pts/0    S+   17:19   0:00 ./fork5
